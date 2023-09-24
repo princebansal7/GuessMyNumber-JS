@@ -72,6 +72,7 @@ h1 {
 }
 
 .again {
+  font-size: 1.4rem; /* Decrease font size for "again" class */
   position: absolute;
   top: 2rem;
   left: 2rem;
